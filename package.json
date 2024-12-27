@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-checkup-app",
+  "version": "1.0.0",
+  "description": "A simple healthcare checkup app for Docker demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Uthuman Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
