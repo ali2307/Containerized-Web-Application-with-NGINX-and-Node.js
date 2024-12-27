@@ -1,1 +1,1 @@
-alert('jjjjjjjjjjjjjjjj')
+console.log('jjjjjjjjjjjjjjjj');
